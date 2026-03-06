@@ -1,0 +1,3 @@
+"desktop.ini" 
+"Thumbs.db" 
+".idea/"   # 忽略 IDEA 配置文件（如果用IDEA开发）
